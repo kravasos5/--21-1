@@ -1,1 +1,7 @@
-вам нужно запустить: 1MAIN_cfg.py     actwindow_cfg.py        KyratorActWindow_cfg.py       MainWindow_cfg.py       register_cfg.py       kalendar_cfg.py
+вам нужно запустить:
+1) 1MAIN_cfg.py
+2) actwindow_cfg.py
+3) KyratorActWindow_cfg.py
+4) MainWindow_cfg.py
+5) register_cfg.py
+6) kalendar_cfg.py
